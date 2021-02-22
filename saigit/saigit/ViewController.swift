@@ -21,6 +21,12 @@ class ViewController: UIViewController {
 
     func displayresults(){
         print("somrthing")
+        
+        
+        
+        func secondfunction(){
+            print("THIS IS secondfunction")
+        }
     }
 }
 
