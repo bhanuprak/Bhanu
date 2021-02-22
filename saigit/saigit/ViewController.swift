@@ -16,8 +16,11 @@ class ViewController: UIViewController {
         
         print("saikumar")
         print("this bharath")
+        displayresults()
     }
 
-
+    func displayresults(){
+        print("somrthing")
+    }
 }
 
